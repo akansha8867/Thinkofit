@@ -1,0 +1,44 @@
+/* .footerMain{height: 50vh;background-color: blueviolet} */
+.Footer{height: 75vh; width: 100%;background: #fff;box-shadow: 0px 0px 50px 0px rgb(0 0 0 / 20%);margin: 50px auto;margin-top: 0px;border: solid seagreen 0px;position: relative;}
+
+.FooterMain{height:60vh;width: 100%; border: solid rgb(17, 19, 18) 0px;background-color: #99154E;position: absolute;bottom: 0;}
+.FooterMainChild{height: 100%;width: 100%;position: relative;}
+ 
+.FooterContent{display: flex;justify-content: space-evenly;height:52vh; border: solid yellow 0px;}
+.FooterContentLeft{width: 35%;height: 100%;position:relative;}
+.FooterR{width:45vh;height:45vh;border: solid rgb(139, 46, 46) 0px;position: absolute;top: -60px;margin-left: 45px;background-color: #FFDDCC;color: white;text-align: left;}
+.FooterH1{width:80%;height:15vh; margin-left: 25px;border: soliD black 0px;margin-top: 20px;}
+
+.FooterHeading1 img{height: 80%;width: 100%;}
+.FooterText{font-size:20px;margin-left: 25px;width:85%;height:8vh;display:flex;justify-content:flex-start;color: black;font-weight: bolder;margin-top: 5%;}
+.FooterLinks{font-size:18px;width:100%;height:5vh; margin-left: 0px;color: black;border: solid 0px rebeccapurple;width: 50%;font-weight: bolder;margin-left: 25px;}
+.icons{height: 12%;width: 40%;display: flex;justify-content: space-between;border: solid 0px darkblue;margin-left: 25px;}
+.icons img{width: 30%;height: 100%;}
+
+
+.FooterContentRight{width:65%;height: 100%;display: flex;justify-content: space-evenly;margin-top: 25px;}
+.FooterQuicklinks{width:25%;height: 90%;border: solid rgb(130, 139, 46) 0px;color: white;text-align: left;}
+.FooterQuicklinksHeading{width: 80%;font-size: 25px;margin-left: 38px;}
+.FooterQuicklinksHeadingLine{width: 45%;margin-left: 38px;border-bottom: solid white 2px;}
+.FooteHomeLinks{width: 80%;}
+.FooteHomeLinks li{margin: 15px auto;font-size: 20px;}
+.FooteHomeLinks li .link{color: white;}
+
+
+.FooterContact{width:50%;height: 90%;border: solid rgb(139, 46, 127) 0px;color: white;text-align: left;}
+.FooterContactHeading{width: 80%;font-size: 20px;margin-left: 25px;border: solid 0px rebeccapurple;}
+.FooterContactHeadingLine{width:30%;margin-left: 25px;border-bottom: solid white 2px;}
+
+.FootercontactDetails{display: flex;height:20%;margin-left: 28px;}
+.FooterPhoneNumber{width:65%;color: white;border: solid rgb(206, 195, 195) 0px;margin-top: 15px;}
+.FooterPhoneNumberList{color: white;font-size: 18px;}
+.FooterPhoneNumberList li{width: 100%;}
+
+.FooterGmail{display: flex;border: solid red 0px;margin-left: 28px;}
+.GmailId{width: 65%;font-size:18px;}
+
+.FooterAddress{display: flex;margin-top: 20px;margin-left: 28px;}
+.AddressInfo{width: 65%;font-size: 18px;}
+
+.Footerbottom{height:5vh; width: 100%; border-top: solid black 02px; position: absolute;bottom:0;}
+.Footerbottom img{height: 55%;width: 20px;}
